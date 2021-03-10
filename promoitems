@@ -1,0 +1,144 @@
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "Tenders & Side Share"
+                                    },
+                                    "url": "promo-tenders-and-side-share",
+                                    "price": 23.99,
+                                    "burgerItem": false,
+                                    "isCustomize": false,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "tenders-and-side-share",
+                                    "promoItem": true
+
+
+"shortDescription": {
+                                "lang": "en-NZ",
+                                "value": "3pcs Secret Recipe chicken, 3 Wicked Wings, 1 reg Popcorn Chicken, 2 reg Chips, 2 330ml Cans"
+                                    "url": "promo-favourites-deal",
+                                    "price": 20,
+                                    "burgerItem": false,
+                                    "isCustomize": true,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "promo-favourites-deal",
+                                    "promoItem": true,
+                                    
+
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "4 Wicked Wings, 6pcs Secret Recipe chicken, 2 lge chips, 1 lge Potato & Gravy. FREE Delivery"
+                                    },
+                                    "url": "promo-ultimate-group-date",
+                                    "price": 34.99,
+                                    "burgerItem": false,
+                                    "isCustomize": false,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": true,
+                                    "imageName": "promo-ultimate-group-date",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "2 Zinger Burgers, 1pc Secret Recipe chicken, 1 Wicked Wing, 2 reg Chips, 2 reg P&G, 2 330ml cans, 2 bread rolls"
+                                    },
+                                    "url": "promo-the-mates-bundle",
+                                    "price": 23.99,
+                                    "burgerItem": false,
+                                    "isCustomize": true,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "promo-the-mates-bundle",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "2x Zinger Burgers, 4x Wicked Wings, 2x Reg Chips, 2x Reg Potato & Gravy, 2x Reg Coke"
+                                    },
+                                    "url": "promo-the-mates-zinger-meal",
+                                    "price": 24.49,
+                                    "burgerItem": false,
+                                    "isCustomize": true,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "promo-the-mates-zinger-meal",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "2 Zinger Burgers, 2pcs Secret Recipe chicken, 2 reg potato & gravy, 2 reg chips, 2 420ml drinks"
+                                    },
+                                    "url": "promo-the-secret-deal-delivered",
+                                    "price": 29.99,
+                                    "burgerItem": false,
+                                    "isCustomize": true,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": true,
+                                    "imageName": "promo-the-secret-deal-delivered",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "1x Snack Burger, 1x Wicked Wing, 1x reg Chips"
+                                    },
+                                    "url": "promo-hot-lunch",
+                                    "price": 5.99,
+                                    "burgerItem": false,
+                                    "isCustomize": false,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "promo-hot-lunch",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "3x Wicked Wings"
+                                    },
+                                    "url": "promo-3-for-$4-wicked-wings",
+                                    "price": 4,
+                                    "burgerItem": false,
+                                    "isCustomize": false,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "3-wicked-wings",
+                                    "promoItem": true,
+                                    
+"shortDescription": {
+                                        "lang": "en-NZ",
+                                        "value": "1x Large Chips"
+                                    },
+                                    "url": "promo-$2-large-chips",
+                                    "price": 2,
+                                    "burgerItem": false,
+                                    "isCustomize": false,
+                                    "categoryId": "promo-items-sub",
+                                    "eligibleItems": [],
+                                    "eligibleCategories": [],
+                                    "upsellItems": [],
+                                    "freeDelivery": false,
+                                    "imageName": "promo-2-large-chips",
+                                    "promoItem": true
